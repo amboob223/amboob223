@@ -1,0 +1,8 @@
+we have got do git init in the root folder 
+then git add when we want to send changes to the stagekng area and
+then git commit -m for the message and to save the changes
+-git log give us our log of changes 
+we can take that commit stfring and past it after git checout "here" to go to specific version
+make a profile a a repository to put on git hub
+then you do git remote add origin "url to your reppository" this is called a push
+
