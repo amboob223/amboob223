@@ -1,0 +1,23 @@
+.link{
+    text-decoration: none;
+    color:black;
+}
+
+.nav{
+    margin:2%;
+    border:black;
+    border:10px;
+    border-style: solid;
+    border-radius: 1%;
+    background-color: darkgrey;
+}
+.navitems{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+
+}
+
+.navitems>li{
+    margin:2%;
+}

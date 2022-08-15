@@ -4,5 +4,10 @@ then git commit -m for the message and to save the changes
 -git log give us our log of changes 
 we can take that commit stfring and past it after git checout "here" to go to specific version
 make a profile a a repository to put on git hub
-then you do git remote add origin "url to your reppository" this is called a push
+then you do git remote add origin "url to your reppository" 
+then git push -u origin masretr
+this is called a push
 
+to get a new branch git checkout -b "new branch"
+then to push to git hub 
+do git push -u origin "branch"
