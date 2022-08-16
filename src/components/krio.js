@@ -3,7 +3,7 @@ import "../App.css";
 import Langauge from "./Language";
 import {lang} from "./Lang";
 // this is the one where we wukk put akl the data
-function Langr(){
+function Krio(){
     return(<div>
 
         <Langauge
@@ -15,4 +15,4 @@ function Langr(){
     </div>)
 }
 
-export default Langr;
+export default Krio;

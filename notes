@@ -11,3 +11,8 @@ this is called a push
 to get a new branch git checkout -b "new branch"
 then to push to git hub 
 do git push -u origin "branch"
+
+git and git hub are diffrent git commit is saving to git memory card in computer and push is to put on the site
+
+
+// in react player we use width={450}

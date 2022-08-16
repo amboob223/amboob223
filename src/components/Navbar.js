@@ -41,12 +41,10 @@ function Navbar(){
                     onMouseEnter={onmouseover}
                     onMouseLeave={onmouseleave}
                     >
-                    <Link
-                        to="/language"
-                        className="link"
-                        >
-                        Language    
-                        </Link>
+                    
+                        Language
+                        <i class="fa-solid fa-caret-down"></i>    
+                       
                         {hov && <DropDown/>}
                     </li>
                 <li>

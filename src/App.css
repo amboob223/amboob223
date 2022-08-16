@@ -1,6 +1,28 @@
+*{font-family: 'Inconsolata',
+monospace;
+font-family: 'Montserrat',
+sans-serif;
+font-family: 'Roboto Slab',
+serif;
+}
+
+
 .App {
   text-align: center;
 }
+
+.scroll{
+  justify-content: center;
+  display: flex;
+  border-radius:2%;
+}
+
+.love{
+  border: 10%;
+  border-style: solid;
+  border-color:black;
+}
+
 
 ul>li{
   text-align: start;
@@ -22,4 +44,38 @@ form>input{
 }
 .cardc{
   height:270px;
+  border:20%;
+  border-style:solid;
+  border-color: none;
+  text-align: center;
+  justify-content: center;
+  background-color: grey;
+  width:30%;
+  height:10%;
+}
+
+.tableitems{
+  display: flex;
+  justify-content:center;
+  align-items: flex-start;
+}
+
+.tableitems>tr{
+  margin-right:-2%
+}
+.tableitem{
+  display: flex;
+  justify-content:space-evenly;
+}
+
+tr{
+ 
+  width:20%;
+  margin: 2%;
+}
+
+.langvid{
+  border:10px;
+  border-style: solid;
+  border-radius: 3%;
 }

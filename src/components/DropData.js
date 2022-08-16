@@ -12,7 +12,7 @@ export const DropData = [
                     {
                       cname:"dropitems",
                       path:"/ashanti", 
-                      name:"ashanti" 
+                      name:"Ashanti" 
                     },
                     {
                       cname:"dropitems",
@@ -22,6 +22,6 @@ export const DropData = [
                     {
                       cname:"dropitems",
                       path:"krio", 
-                      name:"krio" 
+                      name:"Krio" 
                     }
 ]

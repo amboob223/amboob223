@@ -26,15 +26,20 @@ function Scroller(){
     }
 
     return(<div>
-        <div>
-            <Card
-                img={pics[idx]}
-                name={name[idx]}
-                description={des[idx]}
-            />
+        <div className="scroll">
+            
+                <Card
+                    img={pics[idx]}
+                    name={name[idx]}
+                    description={des[idx]}
+                />
+      
+        </div>
+        <div className="scroll">
             <button onClick={last}>last</button>
             <button onClick={next}>next</button>
         </div>
+              
     </div>)
 }
 export default Scroller;
