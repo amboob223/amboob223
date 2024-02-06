@@ -1,6 +1,7 @@
 Smart Contract Developer Portfolio
 Overview
-Welcome to my Smart Contract Developer Portfolio repository. I am a trained economist from Georgia State University, specializing in web development frameworks such as React for frontend and Solidity for building decentralized applications (DApps). With a strong foundation in economic principles and a keen interest in blockchain technology, I am dedicated to creating secure and efficient smart contracts.
+Welcome to my Smart Contract Developer Portfolio repository. 
+      I am a trained economist from Georgia State University, specializing in web development frameworks such as React for frontend and Solidity for building decentralized applications (DApps). With a strong foundation in economic principles and a keen interest in blockchain technology, I am dedicated to creating secure and efficient smart contracts.
 
 Professional Background
 
