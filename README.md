@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+Smart Contract Developer Portfolio
+Overview
+Welcome to my Smart Contract Developer Portfolio repository. I am a trained economist from Georgia State University, specializing in web development frameworks such as React for frontend and Solidity for building decentralized applications (DApps). With a strong foundation in economic principles and a keen interest in blockchain technology, I am dedicated to creating secure and efficient smart contracts.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Professional Background
 
-## Available Scripts
+Education:
+      Master of Arts in Economics, Georgia State University
+      HarvardX Machine Learning certificate
 
-In the project directory, you can run:
+      
+Expertise:
 
-### `npm start`
+Solidity: Smart Contract Development
+React: Frontend Development for DApps
+Ethereum: Blockchain Technology
+Web3.js and Ethers.js: Blockchain Integration
+HTML, CSS, JavaScript: Web Development
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Project Highlights
 
-### `npm test`
+[Wocktan]
+  Description: This was a language learning app I made for little brothers to be able to learn indigenous African languages. 
+              The app has components and procs. 
+  technologies:     the app uses react.js for the front end and for the backend we use Google sheets.db api for ease.
+  role: I am the Ceo, I made the components, the database and shot the video content and edited it as well/
+             
+        
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[club link]
+            description: this app is for club promoters and goers. it connects them and allws them match
+                          I created an auth system using bcrypt.
+                          It uses google maps Api
+            technologies:I used react native for the front end and for the backend I used postgres.
+            role:I made the components and the authorization.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Skills:
+        Solidity
+        Ethereum Blockchain
+        React
+        Web3.js
+        Ethers.js
+        HTML, CSS, JavaScript
+        Contact Information
+        LinkedIn: Your LinkedIn Profile
+        Email: your.email@example.com
+        
+Portfolio: econsensus.app
+Seeking Opportunities
+I am currently seeking opportunities as a Smart Contract Developer, leveraging my skills in blockchain technology and web development. If you are interested in collaborating or have an opportunity that aligns with my expertise, feel free to reach out through LinkedIn or via email.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
