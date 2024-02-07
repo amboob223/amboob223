@@ -52,7 +52,7 @@ Skills:
         LinkedIn: linkedin.com/in/amboob223
         Email: Econsensus1@gmail.com
         
-Portfolio: econsensus.app
+Portfolio: econsensus.app  or  
             Abdul.mboob.netlify.app
             
 Seeking Opportunities
