@@ -3,7 +3,11 @@ Overview
 Welcome to my Smart Contract Developer Portfolio repository. 
       I am a trained economist from Georgia State University, specializing in web development frameworks such as React for frontend and Solidity for building decentralized applications (DApps). With a strong foundation in economic principles and a keen interest in blockchain technology, I am dedicated to creating secure and efficient smart contracts.
 
-Professional Background
+Professional Background:
+      Junior fullstack Developer at Econsensus LLC.
+      Ramp operations specialist at SouthWest Airlines.
+      
+
 
 Education:
       Master of Arts in Economics, Georgia State University
@@ -12,11 +16,11 @@ Education:
       
 Expertise:
 
-Solidity: Smart Contract Development
-React: Frontend Development for DApps
-Ethereum: Blockchain Technology
-Web3.js and Ethers.js: Blockchain Integration
-HTML, CSS, JavaScript: Web Development
+      Solidity: Smart Contract Development
+      React: Frontend Development for DApps
+      Ethereum: Blockchain Technology
+      Web3.js and Ethers.js: Blockchain Integration
+      HTML, CSS, JavaScript: Web Development
 
 
 Project Highlights
@@ -49,6 +53,9 @@ Skills:
         Email: your.email@example.com
         
 Portfolio: econsensus.app
+            Abdul.mboob.netlify.app
+            
 Seeking Opportunities
-I am currently seeking opportunities as a Smart Contract Developer, leveraging my skills in blockchain technology and web development. If you are interested in collaborating or have an opportunity that aligns with my expertise, feel free to reach out through LinkedIn or via email.
 
+      I am currently seeking opportunities as a Smart Contract Developer, leveraging my skills in blockchain technology and web development. If you are interested in collaborating or have an opportunity that aligns with my expertise, feel free to reach out through LinkedIn or via email.
+      
