@@ -49,8 +49,8 @@ Skills:
         Ethers.js
         HTML, CSS, JavaScript
         Contact Information
-        LinkedIn: Your LinkedIn Profile
-        Email: your.email@example.com
+        LinkedIn: linkedin.com/in/amboob223
+        Email: Econsensus1@gmail.com
         
 Portfolio: econsensus.app
             Abdul.mboob.netlify.app
